@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Felipe Gama 😁
+## Olá, eu sou Felipe Gama 😁
 
  <div>
    <a href="https://github.com/felipe1590">
